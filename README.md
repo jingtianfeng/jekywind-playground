@@ -1,2 +1,3 @@
-# jekywind
-Template for Jekyll + Tailwind CSS
+# jekywind-playground
+
+Playground for Jekywind - messing around and learning.
