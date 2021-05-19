@@ -1,0 +1,38 @@
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - package-lock.json
+  - postcss.config.js
+  - tailwind.config.js
+
+title: Jekywind
+tagline: SSG made simple
+description: Template for Jekyll + Tailwind CSS
+url: https://jingtianfeng.github.io/jekywind
+logo: /assets/img/logo.png
+
+author: jtfeng
+social:
+  name: jtfeng
+  links:
+    - https://jtfeng.com
+    - https://github.com/jingtianfeng
+    - https://ca.linkedin.com/in/jing-tian-feng-66a295120
+
+twitter:
+  username: jtfeng
+  card: summary
+facebook:
+  app_id: 1234
+  publisher: 1234
+  admins: 1234
