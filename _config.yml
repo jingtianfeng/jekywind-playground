@@ -15,10 +15,10 @@ exclude:
   - postcss.config.js
   - tailwind.config.js
 
-title: Jekywind
-tagline: SSG made simple
-description: Template for Jekyll + Tailwind CSS
-url: https://jingtianfeng.github.io/jekywind
+title: Jekywind Playground
+tagline: Messing around and learning
+description: Playground for Jekywind - messing around and learning.
+url: https://jingtianfeng.github.io/jekywind-playground
 logo: /assets/img/logo.png
 
 author: jtfeng

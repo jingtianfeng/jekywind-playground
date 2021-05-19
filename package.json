@@ -1,17 +1,17 @@
 {
-  "name": "jekywind",
+  "name": "jekywind-playground",
   "version": "1.0.0",
-  "description": "Template for Jekyll + Tailwind CSS",
+  "description": "Playground for Jekywind",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jingtianfeng/jekywind.git"
+    "url": "git+https://github.com/jingtianfeng/jekywind-playground.git"
   },
   "author": "jingtianfeng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jingtianfeng/jekywind/issues"
+    "url": "https://github.com/jingtianfeng/jekywind-playground/issues"
   },
-  "homepage": "https://github.com/jingtianfeng/jekywind#readme",
+  "homepage": "https://github.com/jingtianfeng/jekywind-playground#readme",
   "devDependencies": {
     "@tailwindcss/forms": "^0.3.2",
     "@tailwindcss/typography": "^0.4.0",
