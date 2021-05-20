@@ -72,7 +72,7 @@ module.exports = {
             accent: {
                 'blue': '#2563EB',
                 'green': '#059669',
-                'yellow': '#F59E0B',
+                'yellow': '#D97706',
                 'red': '#DC2626',
             },
         },
