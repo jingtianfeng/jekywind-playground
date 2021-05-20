@@ -366,7 +366,7 @@ ul {
  */
 
 html {
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 1 */
+  font-family: Inter, Helvetica, Arial, sans-serif; /* 1 */
   line-height: 1.5; /* 2 */
 }
 
@@ -12114,15 +12114,7 @@ body > header > .container, body > section > .container, body > footer > .contai
 }
 
 .font-sans {
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
-
-.font-serif {
-  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-}
-
-.font-mono {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: Inter, Helvetica, Arial, sans-serif;
 }
 
 .font-thin {
@@ -12267,67 +12259,44 @@ body > header > .container, body > section > .container, body > footer > .contai
 
 .text-xs {
   font-size: 0.75rem;
-  line-height: 1rem;
+  line-height: 1.25;
+  letter-spacing: 0.025em;
 }
 
 .text-sm {
   font-size: 0.875rem;
-  line-height: 1.25rem;
+  line-height: 1.25;
+  letter-spacing: 0.025em;
 }
 
 .text-base {
   font-size: 1rem;
-  line-height: 1.5rem;
+  line-height: 1.5;
+  letter-spacing: 0.025em;
 }
 
 .text-lg {
-  font-size: 1.125rem;
-  line-height: 1.75rem;
+  font-size: 1.625rem;
+  line-height: 1.25;
+  letter-spacing: 0.025em;
 }
 
 .text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
+  font-size: 2.625rem;
+  line-height: 1;
+  letter-spacing: 0.025em;
 }
 
 .text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
+  font-size: 4.25rem;
+  line-height: 1;
+  letter-spacing: 0.025em;
 }
 
 .text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-}
-
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
-}
-
-.text-5xl {
-  font-size: 3rem;
+  font-size: 7rem;
   line-height: 1;
-}
-
-.text-6xl {
-  font-size: 3.75rem;
-  line-height: 1;
-}
-
-.text-7xl {
-  font-size: 4.5rem;
-  line-height: 1;
-}
-
-.text-8xl {
-  font-size: 6rem;
-  line-height: 1;
-}
-
-.text-9xl {
-  font-size: 8rem;
-  line-height: 1;
+  letter-spacing: 0.025em;
 }
 
 .leading-3 {
@@ -37847,15 +37816,7 @@ body > header > .container, body > section > .container, body > footer > .contai
   }
 
   .md\:font-sans {
-    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  }
-
-  .md\:font-serif {
-    font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-  }
-
-  .md\:font-mono {
-    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-family: Inter, Helvetica, Arial, sans-serif;
   }
 
   .md\:font-thin {
@@ -38000,67 +37961,44 @@ body > header > .container, body > section > .container, body > footer > .contai
 
   .md\:text-xs {
     font-size: 0.75rem;
-    line-height: 1rem;
+    line-height: 1.25;
+    letter-spacing: 0.025em;
   }
 
   .md\:text-sm {
     font-size: 0.875rem;
-    line-height: 1.25rem;
+    line-height: 1.25;
+    letter-spacing: 0.025em;
   }
 
   .md\:text-base {
     font-size: 1rem;
-    line-height: 1.5rem;
+    line-height: 1.5;
+    letter-spacing: 0.025em;
   }
 
   .md\:text-lg {
-    font-size: 1.125rem;
-    line-height: 1.75rem;
+    font-size: 1.625rem;
+    line-height: 1.25;
+    letter-spacing: 0.025em;
   }
 
   .md\:text-xl {
-    font-size: 1.25rem;
-    line-height: 1.75rem;
+    font-size: 2.625rem;
+    line-height: 1;
+    letter-spacing: 0.025em;
   }
 
   .md\:text-2xl {
-    font-size: 1.5rem;
-    line-height: 2rem;
+    font-size: 4.25rem;
+    line-height: 1;
+    letter-spacing: 0.025em;
   }
 
   .md\:text-3xl {
-    font-size: 1.875rem;
-    line-height: 2.25rem;
-  }
-
-  .md\:text-4xl {
-    font-size: 2.25rem;
-    line-height: 2.5rem;
-  }
-
-  .md\:text-5xl {
-    font-size: 3rem;
+    font-size: 7rem;
     line-height: 1;
-  }
-
-  .md\:text-6xl {
-    font-size: 3.75rem;
-    line-height: 1;
-  }
-
-  .md\:text-7xl {
-    font-size: 4.5rem;
-    line-height: 1;
-  }
-
-  .md\:text-8xl {
-    font-size: 6rem;
-    line-height: 1;
-  }
-
-  .md\:text-9xl {
-    font-size: 8rem;
-    line-height: 1;
+    letter-spacing: 0.025em;
   }
 
   .md\:leading-3 {
@@ -63410,15 +63348,7 @@ body > header > .container, body > section > .container, body > footer > .contai
   }
 
   .lg\:font-sans {
-    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  }
-
-  .lg\:font-serif {
-    font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-  }
-
-  .lg\:font-mono {
-    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-family: Inter, Helvetica, Arial, sans-serif;
   }
 
   .lg\:font-thin {
@@ -63563,67 +63493,44 @@ body > header > .container, body > section > .container, body > footer > .contai
 
   .lg\:text-xs {
     font-size: 0.75rem;
-    line-height: 1rem;
+    line-height: 1.25;
+    letter-spacing: 0.025em;
   }
 
   .lg\:text-sm {
     font-size: 0.875rem;
-    line-height: 1.25rem;
+    line-height: 1.25;
+    letter-spacing: 0.025em;
   }
 
   .lg\:text-base {
     font-size: 1rem;
-    line-height: 1.5rem;
+    line-height: 1.5;
+    letter-spacing: 0.025em;
   }
 
   .lg\:text-lg {
-    font-size: 1.125rem;
-    line-height: 1.75rem;
+    font-size: 1.625rem;
+    line-height: 1.25;
+    letter-spacing: 0.025em;
   }
 
   .lg\:text-xl {
-    font-size: 1.25rem;
-    line-height: 1.75rem;
+    font-size: 2.625rem;
+    line-height: 1;
+    letter-spacing: 0.025em;
   }
 
   .lg\:text-2xl {
-    font-size: 1.5rem;
-    line-height: 2rem;
+    font-size: 4.25rem;
+    line-height: 1;
+    letter-spacing: 0.025em;
   }
 
   .lg\:text-3xl {
-    font-size: 1.875rem;
-    line-height: 2.25rem;
-  }
-
-  .lg\:text-4xl {
-    font-size: 2.25rem;
-    line-height: 2.5rem;
-  }
-
-  .lg\:text-5xl {
-    font-size: 3rem;
+    font-size: 7rem;
     line-height: 1;
-  }
-
-  .lg\:text-6xl {
-    font-size: 3.75rem;
-    line-height: 1;
-  }
-
-  .lg\:text-7xl {
-    font-size: 4.5rem;
-    line-height: 1;
-  }
-
-  .lg\:text-8xl {
-    font-size: 6rem;
-    line-height: 1;
-  }
-
-  .lg\:text-9xl {
-    font-size: 8rem;
-    line-height: 1;
+    letter-spacing: 0.025em;
   }
 
   .lg\:leading-3 {
