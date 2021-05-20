@@ -20,36 +20,32 @@ module.exports = {
             center: true,
         },
         fontFamily: {
-            'sans': ['Inter', 'Helvetica', 'Arial', 'sans-serif'],
+            'sans': ['Inter', 'Helvetica', 'sans-serif'],
         },
         fontSize: {
-            'xs': ['0.75rem', {
-                letterSpacing: '0.025em',
-                lineHeight: '1.25',
-            }],
-            'sm': ['0.875rem', {
-                letterSpacing: '0.025em',
-                lineHeight: '1.25',
+            'sm': ['0.75rem', {
+                letterSpacing: '0.05em',
+                lineHeight: '1rem',
             }],
             'base': ['1rem', {
                 letterSpacing: '0.025em',
-                lineHeight: '1.5',
+                lineHeight: '1.625rem',
             }],
             'lg': ['1.625rem', {
-                letterSpacing: '0.025em',
-                lineHeight: '1.25',
+                letterSpacing: '0em',
+                lineHeight: '2rem',
             }],
             'xl': ['2.625rem', {
-                letterSpacing: '0.025em',
-                lineHeight: '1',
+                letterSpacing: '0em',
+                lineHeight: '2.75rem',
             }],
             '2xl': ['4.25rem', {
-                letterSpacing: '0.025em',
-                lineHeight: '1',
+                letterSpacing: '0em',
+                lineHeight: '4.375rem',
             }],
-            '3xl': ['7rem', {
-                letterSpacing: '0.025em',
-                lineHeight: '1',
+            '3xl': ['6.875rem', {
+                letterSpacing: '0em',
+                lineHeight: '6.875rem',
             }],
         }
     },
