@@ -76,6 +76,13 @@ module.exports = {
                 'red': '#CC3333',
             },
         },
+        borderRadius: {
+            'none': '0px',
+            'sm': '2px',
+            DEFAULT: '5px',
+            'lg': '20px',
+            'full': '9999px',
+        }
     },
     corePlugins: {
         backgroundImage: false,
