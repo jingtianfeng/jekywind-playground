@@ -78,6 +78,7 @@ module.exports = {
         },
     },
     corePlugins: {
+        backgroundImage: false,
         gradientColorStops: false,
     },
     plugins: [

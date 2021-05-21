@@ -3353,42 +3353,6 @@ body > header > .container, body > section > .container, body > footer > .contai
   background-color: rgba(204, 51, 51, var(--tw-bg-opacity));
 }
 
-.bg-none {
-  background-image: none;
-}
-
-.bg-gradient-to-t {
-  background-image: linear-gradient(to top, var(--tw-gradient-stops));
-}
-
-.bg-gradient-to-tr {
-  background-image: linear-gradient(to top right, var(--tw-gradient-stops));
-}
-
-.bg-gradient-to-r {
-  background-image: linear-gradient(to right, var(--tw-gradient-stops));
-}
-
-.bg-gradient-to-br {
-  background-image: linear-gradient(to bottom right, var(--tw-gradient-stops));
-}
-
-.bg-gradient-to-b {
-  background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
-}
-
-.bg-gradient-to-bl {
-  background-image: linear-gradient(to bottom left, var(--tw-gradient-stops));
-}
-
-.bg-gradient-to-l {
-  background-image: linear-gradient(to left, var(--tw-gradient-stops));
-}
-
-.bg-gradient-to-tl {
-  background-image: linear-gradient(to top left, var(--tw-gradient-stops));
-}
-
 .bg-opacity-0 {
   --tw-bg-opacity: 0;
 }
@@ -17457,42 +17421,6 @@ body > header > .container, body > section > .container, body > footer > .contai
     background-color: rgba(204, 51, 51, var(--tw-bg-opacity));
   }
 
-  .md\:bg-none {
-    background-image: none;
-  }
-
-  .md\:bg-gradient-to-t {
-    background-image: linear-gradient(to top, var(--tw-gradient-stops));
-  }
-
-  .md\:bg-gradient-to-tr {
-    background-image: linear-gradient(to top right, var(--tw-gradient-stops));
-  }
-
-  .md\:bg-gradient-to-r {
-    background-image: linear-gradient(to right, var(--tw-gradient-stops));
-  }
-
-  .md\:bg-gradient-to-br {
-    background-image: linear-gradient(to bottom right, var(--tw-gradient-stops));
-  }
-
-  .md\:bg-gradient-to-b {
-    background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
-  }
-
-  .md\:bg-gradient-to-bl {
-    background-image: linear-gradient(to bottom left, var(--tw-gradient-stops));
-  }
-
-  .md\:bg-gradient-to-l {
-    background-image: linear-gradient(to left, var(--tw-gradient-stops));
-  }
-
-  .md\:bg-gradient-to-tl {
-    background-image: linear-gradient(to top left, var(--tw-gradient-stops));
-  }
-
   .md\:bg-opacity-0 {
     --tw-bg-opacity: 0;
   }
@@ -31389,42 +31317,6 @@ body > header > .container, body > section > .container, body > footer > .contai
   .lg\:focus\:bg-accent-red:focus {
     --tw-bg-opacity: 1;
     background-color: rgba(204, 51, 51, var(--tw-bg-opacity));
-  }
-
-  .lg\:bg-none {
-    background-image: none;
-  }
-
-  .lg\:bg-gradient-to-t {
-    background-image: linear-gradient(to top, var(--tw-gradient-stops));
-  }
-
-  .lg\:bg-gradient-to-tr {
-    background-image: linear-gradient(to top right, var(--tw-gradient-stops));
-  }
-
-  .lg\:bg-gradient-to-r {
-    background-image: linear-gradient(to right, var(--tw-gradient-stops));
-  }
-
-  .lg\:bg-gradient-to-br {
-    background-image: linear-gradient(to bottom right, var(--tw-gradient-stops));
-  }
-
-  .lg\:bg-gradient-to-b {
-    background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
-  }
-
-  .lg\:bg-gradient-to-bl {
-    background-image: linear-gradient(to bottom left, var(--tw-gradient-stops));
-  }
-
-  .lg\:bg-gradient-to-l {
-    background-image: linear-gradient(to left, var(--tw-gradient-stops));
-  }
-
-  .lg\:bg-gradient-to-tl {
-    background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
   .lg\:bg-opacity-0 {
