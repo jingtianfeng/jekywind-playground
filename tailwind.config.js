@@ -77,6 +77,9 @@ module.exports = {
             },
         },
     },
+    corePlugins: {
+        gradientColorStops: false,
+    },
     plugins: [
         require('@tailwindcss/typography'),
         require('@tailwindcss/forms'),
