@@ -1,5 +1,32 @@
-<nav>
-    <div class="container">
-        nav top
+<nav class="bg-gray-3 py-0 px-3 md:px-4 lg:px-5">
+    <div class="container grid items-center grid-cols-2">
+        <img class="row-start-1 row-end-1 col-start-1 col-end-2 h-5 w-auto py-2"
+             src="{{ '/assets/img/logo.png' | relative_url }}" alt="logo"
+             height="80px" width="50px">
+        <svg id="menutoggle"
+             class="row-start-2 row-end-1 col-start-2 col-end-3 justify-self-end h-4 w-4 stroke-current text-gray-e md:hidden"
+             viewBox="0 0 80 80" height="80" width="80" xmlns="http://www.w3.org/2000/svg">
+            <g transform="matrix(3.3333333333333335,0,0,3.3333333333333335,0,0)">
+                <path d="M9.362 20.628 A2.625 2.625 0 1 0 14.612 20.628 A2.625 2.625 0 1 0 9.362 20.628 Z" fill="none"
+                      stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+                <path d="M9.362 3.378 A2.625 2.625 0 1 0 14.612 3.378 A2.625 2.625 0 1 0 9.362 3.378 Z" fill="none"
+                      stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+                <path d="M9.362 12.003 A2.625 2.625 0 1 0 14.612 12.003 A2.625 2.625 0 1 0 9.362 12.003 Z" fill="none"
+                      stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+            </g>
+        </svg>
+        <div id="menu"
+             class="hidden row-start-2 row-end-3 col-start-1 col-end-3 flex flex-col gap-3 py-3 font-semibold text-gray-d md:flex md:row-start-1 md:row-end-2 md:col-start-2 md:col-end-5 md:flex-row md:justify-self-end md:gap-5">
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </div>
     </div>
+    <script>
+        const menutoggle = document.getElementById('menutoggle')
+        const menu = document.getElementById('menu')
+        menutoggle.addEventListener('click', () => {
+            menu.classList.toggle('hidden')
+        })
+    </script>
 </nav>
