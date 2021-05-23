@@ -1,5 +1,31 @@
-<footer>
+<footer class="bg-gray-e">
     <div class="container">
-        footer
+        <h2 class="row-start-1 row-end-2 col-start-1 col-end-2
+                    text-xl text-gray-2
+                    md:text-2xl">
+            Let's connect <span class="text-gray-9">digitally</span>.
+        </h2>
+        <nav class="row-start-2 row-end-3 col-start-1 col-end-3
+                    flex items-center
+                    md:row-start-1 md:row-end-2 md:col-start-3 md:col-end-5
+                    md:justify-self-end">
+            {% for svg in site.data.sitemap %}
+            <a class="mr-4" href="{{ svg.href | relative_url }}"
+               aria-label="{{ svg.name }}">
+                <svg class="stroke-current text-gray-3"
+                     viewBox="0 0 40 40" height="40" width="40" xmlns="http://www.w3.org/2000/svg">
+                    <g transform="matrix(1.6666666666666667,0,0,1.6666666666666667,0,0)">
+                        {{ svg.path }}
+                    </g>
+                </svg>
+            </a>
+            {% endfor %}
+        </nav>
+        <p class="row-start-3 row-end-4 col-start-2 col-end-3
+                    text-base text-gray-8 text-right
+                    md:row-start-2 md:row-end-3 md:col-start-1
+                    md:text-left">
+            © JT Feng
+        </p>
     </div>
 </footer>
