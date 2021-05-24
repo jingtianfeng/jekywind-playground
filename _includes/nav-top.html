@@ -7,15 +7,15 @@
         <svg id="menutoggle"
              class="row-start-2 row-end-1 col-start-2 col-end-3
                     justify-self-end h-4 w-4 py-1
-                    stroke-current text-gray-e md:hidden"
-             viewBox="0 0 80 80" height="80" width="80" xmlns="http://www.w3.org/2000/svg">
-            <g transform="matrix(3.3333333333333335,0,0,3.3333333333333335,0,0)">
-                <path d="M9.362 20.628 A2.625 2.625 0 1 0 14.612 20.628 A2.625 2.625 0 1 0 9.362 20.628 Z" fill="none"
-                      stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
-                <path d="M9.362 3.378 A2.625 2.625 0 1 0 14.612 3.378 A2.625 2.625 0 1 0 9.362 3.378 Z" fill="none"
-                      stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
-                <path d="M9.362 12.003 A2.625 2.625 0 1 0 14.612 12.003 A2.625 2.625 0 1 0 9.362 12.003 Z" fill="none"
-                      stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+                    fill-current text-gray-d md:hidden"
+             viewBox="0 0 40 40" height="40" width="40" xmlns="http://www.w3.org/2000/svg">
+            <g transform="matrix(1.6666666666666667,0,0,1.6666666666666667,0,0)">
+                <path d="M8.750 3.250 A3.250 3.250 0 1 0 15.250 3.250 A3.250 3.250 0 1 0 8.750 3.250 Z"
+                      stroke-linecap="round" stroke-linejoin="round" stroke-width="0"></path>
+                <path d="M8.750 12.000 A3.250 3.250 0 1 0 15.250 12.000 A3.250 3.250 0 1 0 8.750 12.000 Z"
+                      stroke-linecap="round" stroke-linejoin="round" stroke-width="0"></path>
+                <path d="M8.750 20.750 A3.250 3.250 0 1 0 15.250 20.750 A3.250 3.250 0 1 0 8.750 20.750 Z"
+                      stroke-linecap="round" stroke-linejoin="round" stroke-width="0"></path>
             </g>
         </svg>
         <div id="menu"
@@ -35,6 +35,7 @@
         const menutoggle = document.getElementById('menutoggle')
         const menu = document.getElementById('menu')
         menutoggle.addEventListener('click', () => {
+            menutoggle.classList.toggle('text-gray-f')
             menu.classList.toggle('hidden')
         })
     </script>
