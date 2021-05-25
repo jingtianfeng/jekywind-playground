@@ -5,164 +5,272 @@ title: "Terms & Conditions"
 
 # Terms and Conditions
 
-Welcome to placeholder!
+Last Updated on {{ site.time | date_to_string: "ordinal", "US" }}
 
-These terms and conditions outline the rules and regulations for the use of placeholder's Website, located at
-placeholder.com.
+*NOTICE: Please read the terms and conditions set forth below, which are legally binding. By visiting, viewing or using
+this website and/or by using any program, product, course or service from us, you agree to be bound by these Terms and
+Conditions and our Privacy Policy and Disclaimer.*
 
-By accessing this website we assume you accept these terms and conditions. Do not continue to use placeholder if you do
-not agree to take all of the terms and conditions stated on this page.
+PLEASE READ THE SECTIONS TITLED "BINDING ARBITRATION" AND “CLASS ACTION WAIVER” AS THEY AFFECT YOUR LEGAL RIGHTS.
 
-The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all
-Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s
-terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "
-Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment
-necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express
-purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and
-subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural,
-capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
+{{ site.title }}, {{ site.url }} ("website"), which is operated by {{ site.author }} ("Company", "we", "us", or "our")
+provides visitors information on the website subject to the following terms and conditions ("Terms and Conditions"). The
+term "you" refers to any visitor, viewer or user of the website and/or any user of any free or paid program, product,
+course or service of the Company (each, a "Product").
 
-## Cookies
+By viewing, visiting or using the website and/or a Product, you indicate your acceptance and agreement to be bound by
+these Terms and Conditions and our Privacy Policy and Disclaimer, which are hereby incorporated by reference (
+collectively, this “Agreement”). If you do not accept the terms and conditions of this Agreement, then please do not use
+the website or any Products. These Terms and Conditions were created with the help of
+the [Plug and Law](https://plugandlaw.com/privacy-policy-generator)
+and [Privacy Policy Solutions](https://privacypolicysolutions.com).
 
-We employ the use of cookies. By accessing placeholder, you agreed to use cookies in agreement with the placeholder's
-Privacy Policy.
+We reserve the right to amend this Agreement at any time without notice to you. We will alert you to any changes by
+posting the effective date of the latest version at the top of this page, at which point any changes will become
+immediately effective. It is your responsibility to check for updates, as your continued use of the website or any
+Products after this Agreement is amended will constitute your acceptance and agreement to continue to be bound by this
+Agreement, as amended.
 
-Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our
-website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our
-affiliate/advertising partners may also use cookies.
+## CANADA AND OVER 18 USE ONLY
 
-## License
+The website is intended only for individuals over the age of 18 residing in Canada. We do not make any representations
+that this website is appropriate or available for use outside of Canada. If you access the website or any of our
+Products from outside of Canada, you do so at your own risk and on your own initiative. It is solely your responsibility
+to ensure compliance with applicable laws in your specific jurisdiction.
 
-Unless otherwise stated, placeholder and/or its licensors own the intellectual property rights for all material on
-placeholder. All intellectual property rights are reserved. You may access this from placeholder for your own personal
-use subjected to restrictions set in these terms and conditions.
+## GUIDELINES FOR USE
 
-You must not:
+We have established certain guidelines to keep our community safe (“Guidelines”). By visiting or using the website or
+any Product, you agree to abide by these Guidelines, which are as follows:
 
-- Republish material from placeholder
-- Sell, rent or sub-license material from placeholder
-- Reproduce, duplicate or copy material from placeholder
-- Redistribute content from placeholder
+- You will comply with all applicable law;
+- You will not upload, post, send, email, or otherwise make available any information or content which in any way
+  infringes any copyright, trade secret, trademark, right of publicity, privacy, property or other intellectual property
+  or proprietary rights, or any information or content which you do not have the right to make available, through any
+  law, contractual or fiduciary relationship or otherwise;
+- You will not act in any way that is fraudulent, false, misleading, deceitful or deceptive, such as by impersonating
+  another individual or falsifying your association with an individual or entity;
+- You will not upload, post, send, email, or otherwise make available any material or behave in any manner which could
+  be perceived as harassing, demeaning, threatening, “stalking”, defamatory, sexually explicit, abusive, vulgar, hate
+  speech, obscene, indecent or otherwise objectionable;
+- You will not upload, post, send, email, or otherwise make available any material which would reveal the personal
+  information of another individual;
+- You will not behave in any manner which could limit or otherwise impact any other person’s use or enjoyment of the
+  website and/or any Product;
+- You will not engage in any unsolicited or unauthorized advertising nor will you send any spam;
+- You will not attempt to gain unauthorized access to any portion of the website or any of the Products;
+- You will not engage in or encourage others to engage in any activity which would violate any law, constitute a
+  criminal offense, give rise to civil liability, or infringe on the rights of any third party;
+- You will not send any materials which contain viruses, devices, information collection or transmission mechanisms,
+  trojan horses, worms, time-bombs, adware, keystroke loggers or any other programs or code which would be harmful to,
+  interfere with or attempt to interfere with our systems;
+- You will not engage in market research or any research intended to help a competitor;
+- You will not deploy any automated query program, such as a bot or spider, at any time or for any purpose without our
+  express written consent;
+- You will not block or cover any advertisements on the website;
+- With the exception of any personal information you share (which is covered under our Privacy Policy), once you upload,
+  post, send, email, or otherwise make available any material, we have the right to display, repurpose or otherwise use
+  such material in any way; and
+- You will notify us through the contact information provided below if you know or have reason to know that a violation
+  of any of our Guidelines has occurred.
 
-This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the Terms And
-Conditions Generator and the Privacy Policy Generator.
+We reserve the right to deny you access to the website and any Products in our sole discretion at any time and for any
+reason.
 
-Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of
-the website. placeholder does not filter, edit, publish or review Comments prior to their presence on the website.
-Comments do not reflect the views and opinions of placeholder,its agents and/or affiliates. Comments reflect the views
-and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, placeholder
-shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any
-use of and/or posting of and/or appearance of the Comments on this website.
+## INTELLECTUAL PROPERTY
 
-placeholder reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate,
-offensive or causes breach of these Terms and Conditions.
+The website and its content and all Products, including but not limited to videos, coursework, training modules,
+photographs, sound recordings, images, digital content, material available as a free download, software, text, graphics
+and other material, are owned or licensed by the Company and are protected by copyright, trademarks
+(whether registered or unregistered), design rights, database rights and all other intellectual property rights afforded
+to us (“Intellectual Property”).
 
-You warrant and represent that:
+While you may view and have access to our Intellectual Property for your own personal and non-commercial use, you agree
+to abide by the following:
 
-- You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;
-- The Comments do not invade any intellectual property right, including without limitation copyright, patent or
-  trademark of any third party;
-- The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an
-  invasion of privacy
-- The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful
-  activity.
+- Our Intellectual Property must be kept intact with the proper copyright and other intellectual property notices; and
+- You may not reproduce, resell, distribute, publicly perform, create derivative works, translate, transmit, post,
+  republish, exploit, copy or otherwise use our Intellectual Property for any commercial or non-personal use, unless you
+  have received explicit written consent from us to do so.
 
-You hereby grant placeholder a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and
-edit any of your Comments in any and all forms, formats or media.
+It is in our sole discretion to give written consent for you to reproduce, resell, distribute, publicly perform, create
+derivative works, translate, transmit, post, republish, copy or otherwise use our Intellectual Property. If you have any
+questions, please contact us using the contact information provided below.
 
-## Hyperlinking to our Content
+## NO WARRANTIES
 
-The following organizations may link to our Website without prior written approval:
+Your use of this website and any Products is entirely at your risk, as the website and our Products are provided on an
+“as is” and “as available” basis. We do not make any express or implied warranties or representations relating to the
+website, its content and our Products, including but not limited to warranties of title, merchantability, fitness for a
+particular purpose and non-infringement of third parties’ rights. We also do not make any express or implied warranties
+or representations that the website will operate without error or that the website, the servers relied on, our Products
+and any content is free from computer viruses or other potentially harmful or destructive features. Some jurisdictions
+do not permit the exclusion of certain warranties. As such, some of the exclusions referenced in this section may not
+apply to you.
 
-- Government agencies;
-- Search engines;
-- News organizations;
-- Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other
-  listed businesses; and
-- System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity
-  fundraising groups which may not hyperlink to our Web site.
+## LIMITATION OF LIABILITY
 
-These organizations may link to our home page, to publications or to other Website information so long as the link: (a)
-is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and
-its products and/or services; and (c) fits within the context of the linking party’s site.
+To the fullest extent permissible by law, the Company and our directors, contractors, successors, joint venture
+partners, shareholders, agents, affiliates, officers, employees, assignees and licensees, as applicable, shall not be
+liable for any direct, indirect, special, incidental, consequential, exemplary or other loss or damage, including but
+not limited to damages for loss of profits, goodwill, business interruption, use or loss of data or other intangible
+losses, which may directly or indirectly arise out of or be related to your use of or inability to access this website
+or any Products or your reliance on any advice, opinion, information, representation or omission contained on, or
+received through this website or any Products, even if we have been advised of the possibility of such damages
+occurring.
 
-We may consider and approve other link requests from the following types of organizations:
+This limitation of liability applies whether such liability arises from tort, negligence, breach of contract or any
+other legal theory of liability.
 
-- commonly-known consumer and/or business information sources;
-- dot.com community sites;
-- associations or other groups representing charities;
-- online directory distributors;
-- internet portals;
-- accounting, law and consulting firms; and
-- educational institutions and trade associations.
+## INDEMNIFICATION
 
-We will approve link requests from these organizations if we decide that: (a) the link would not make us look
-unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with
-us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of placeholder; and (d) the link
-is in the context of general resource information.
+You shall indemnify, defend and hold harmless the Company and our affiliates, and our respective directors, contractors,
+successors, joint venture partners, shareholders, agents, affiliates, officers, employees, assignees and licensees from
+and against any and all damages, liabilities, losses, costs and expenses resulting from any suits, proceedings,
+judgments, demands, causes of action and claims (collectively, the “Claims”), including legal and accounting fees and
+expenses, whether or not involving a third party claim, to the extent arising out of, relating to or resulting from: (i)
+your use or misuse of this website or any of our Products, (ii) your breach of this Agreement, or (iii)
+your violation of any third party rights, including without limitation any copyright, trade secret, trademark, right of
+publicity, privacy, property or other intellectual property or proprietary rights. We will provide you with notice of
+any Claims, and may in our sole discretion assist you, at your expense, in defending such Claims. We reserve the right
+to assume exclusive control of defending any such Claim, at your expense, including choice of legal counsel. You agree
+to cooperate and assist us in defending any such Claim.
 
-These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely
-imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the
-context of the linking party’s site.
+## LIMITED LICENSE
 
-If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must
-inform us by sending an e-mail to placeholder. Please include your name, your organization name, contact information as
-well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on
-our site to which you would like to link. Wait 2-3 weeks for a response.
+Notwithstanding any other provisions in this Agreement, if you purchase any Products or download any of our free
+Products, we grant you a limited, non-sublicensable, non-transferable, non-exclusive, revocable license (“License”) to
+use or access the Products for your personal and non-commercial use. You may not reproduce, resell, distribute, create
+derivative works, translate, transmit, post, republish, exploit, copy or otherwise use our Products for any commercial
+or non-personal use.
 
-Approved organizations may hyperlink to our Website as follows:
+Your License is for individual use. You have no right to assign any of your rights or transfer any of your obligations
+under this Agreement. If we discover that any violation of the terms and conditions in this Agreement has occurred,
+including violation of the License granted to you, we reserve the right to terminate your access to the Products and
+invoice you for any damages.
 
-- By use of our corporate name; or
-- By use of the uniform resource locator being linked to; or
-- By use of any other description of our Website being linked to that makes sense within the context and format of
-  content on the linking party’s site.
+## CONFIDENTIAL INFORMATION
 
-No use of placeholder's logo or other artwork will be allowed for linking absent a trademark license agreement.
+Please do not upload, post, send, email, or otherwise make available any material that contains any confidential
+information.
 
-## iFrames
+## FEES
 
-Without prior approval and written permission, you may not create frames around our Webpages that alter in any way the
-visual presentation or appearance of our Website.
+When you purchase any Product through this website, you are responsible for all applicable fees and taxes. It is your
+responsibility to provide complete, accurate and up-to-date billing and credit card information. If you are on a payment
+plan or recurring payment, it is your responsibility to keep an up-to-date payment method with us. If your payment
+method is declined or expired, you hereby agree to pay all applicable fees and taxes due upon demand. You also agree to
+pay all costs of collection, including but not limited to attorney’s fees, on any outstanding balance.
 
-## Content Liability
+## WEBSITE AVAILABILITY
 
-We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us
-against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as
-libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation
-of, any third party rights.
+Your access to the website or Products may be occasionally restricted, such as when we need to make repairs or are
+introducing new features. Your access to the website or Products may also become permanently disabled, such as if we
+decide to terminate the operation of the website or Products. We cannot guarantee that you will have continuous access
+to the website or Products.
 
-## Your Privacy
+## NO REFUNDS
 
-Please read Privacy Policy
+We reserve the right to change our refund policy at any time. We do not offer refunds for any of our Products under any
+circumstances. We believe we provide products and services that are high-quality and at a reasonable price point.
 
-## Reservation of Rights
+## GOVERNING LAW
 
-We reserve the right to request that you remove all links or any particular link to our Website. You approve to
-immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions
-and it’s linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these
-linking terms and conditions.
+All matters relating to or arising out of this Agreement shall be governed by and construed and interpreted under the
+laws of Canada, without regard to conflicts of laws principles that would require the application of any other law.
 
-## Removal of Links from our Website
+## BINDING ARBITRATION
 
-If you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment.
-We will consider requests to remove links but we are not obligated to or so or to respond to you directly.
+In the event that either party asserts that there is a dispute arising out of or relating to this Agreement, such party
+shall first notify the other party in writing, specifying the nature of the dispute and scheduling a meeting to attempt
+to resolve the dispute.
 
-We do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do
-we promise to ensure that the website remains available or that the material on the website is kept up to date.
+If no resolution is reached within thirty (30) calendar days of the delivery of the written notice, either party may
+then elect to exclusively and finally resolve the dispute by binding arbitration by filing a written notice of
+arbitration in accordance with this section under the subheading “Binding Arbitration” and the Rules of Conciliation and
+Arbitration of the International Chamber of Commerce applicable at the time of submission of the dispute to
+arbitration (the “ICC Rules”).
 
-## Disclaimer
+Notwithstanding anything to the contrary in the ICC Rules, the following terms and conditions shall apply.
 
-To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to
-our website and the use of this website. Nothing in this disclaimer will:
+The arbitration shall be conducted by a panel of three (**3**) arbitrators. Each party shall have the right to appoint
+one (**1**) arbitrator within fifteen (**15**) days following the delivery of the written notice of arbitration, and a
+third arbitrator shall be selected by those two (**2**) party-appointed arbitrators within thirty (**30**) days of the
+appointment of the two (**2**) party-appointed arbitrators.
 
-- limit or exclude our or your liability for death or personal injury;
-- limit or exclude our or your liability for fraud or fraudulent misrepresentation;
-- limit any of our or your liabilities in any way that is not permitted under applicable law; or
-- exclude any of our or your liabilities that may not be excluded under applicable law.
+The arbitration proceedings shall be held in Montreal, Canada in the English language.
 
-The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to
-the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in
-contract, in tort and for breach of statutory duty.
+The parties shall equally bear the costs and fees of the arbitration, and each party shall bear its own cost for its own
+legal expenses. The arbitrators shall apply the substantive law set forth in the section of this Agreement under the
+subheading “Governing Law”. Any arbitration proceeding shall be conducted on a confidential basis.
 
-As long as the website and the information and services on the website are provided free of charge, we will not be
-liable for any loss or damage of any nature.
+The arbitrators shall specify the reason and basis for their decision, the reason for any damages awarded and the
+breakdown for such damages awarded, and the basis for any other remedy authorized under this Agreement, including but
+not limited to injunctive relief or specific performance. For the avoidance of doubt, nothing in this Agreement shall
+prevent us from seeking injunctive or other equitable relief.
+
+The decision of the arbitrators shall be considered as a final and binding resolution of the dispute, shall be final and
+binding on the parties, and shall not be subject to appeal or reexamination. The award of the arbitrators may be entered
+as a judgment and enforced by any court of competent jurisdiction.
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AGREE TO WAIVE YOUR RIGHT TO TRIAL BY JURY IN ANY PROCEEDINGS, ACTION OR
+COUNTERCLAIM.
+
+## INJUNCTIVE OR OTHER EQUITABLE RELIEF
+
+We may seek injunctive or other equitable relief that is necessary to protect our rights and intellectual property. All
+actions or proceedings related to this Agreement that are not subject to binding arbitration will be brought solely in
+the courts of Canada. You hereby unconditionally and irrevocably consent to the personal and subject matter jurisdiction
+of those courts for purposes of any such action.
+
+## CLASS ACTION WAIVER
+
+You agree that any dispute arising out of or relating to this Agreement shall be solely between you and the Company.
+
+YOU AGREE TO WAIVE THE RIGHT TO LITIGATE IN COURT OR ARBITRATE ANY CLAIM OR DISPUTE AS A CLASS ACTION. YOU AGREE THAT
+YOU WILL ONLY MAKE CLAIMS AGAINST US IN YOUR INDIVIDUAL CAPACITY, AND CANNOT MAKE CLAIMS AGAINST US AS A MEMBER OF A
+CLASS OR AS A REPRESENTATIVE.
+
+## ENTIRE AGREEMENT
+
+This Agreement, the Privacy Policy and Disclaimer contain the entire agreement between you and the Company with respect
+to the subject matter hereof and thereof and supersede all prior agreements and undertakings, both written and oral,
+with respect thereto.
+
+## TERMINATION OF AGREEMENT
+
+We reserve the right, in our sole discretion, to terminate this Agreement and to terminate, restrict, deny, or suspend
+your access to the website and all Products at any time and for any purpose without prior notice. We also reserve the
+right to discontinue any or all of the website or Products at any time and for any purpose without prior notice.
+
+## SEVERABILITY
+
+If any term or other provision of this Agreement is held to be invalid, prohibited or unenforceable under applicable
+law, the other provisions of this Agreement will remain in full force and effect.
+
+## MISCELLANEOUS
+
+Our failure to act on or delay in exercising any privilege, power or right under this Agreement will not operate as a
+waiver of such privilege, power or right, and no single or partial exercise of any such privilege, power or right will
+preclude any other or further exercise of such privilege, power or right or the exercise of any other privilege, power
+or right.
+
+Subheadings in this Agreement are used for convenience of reference only and in no way define, describe, limit or extend
+the scope of this Agreement or the intent of any of its provisions. They shall not be considered in construing or
+interpreting this Agreement.
+
+The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the successors, heirs,
+executors, administrators, legal representatives and assigns of the Company. Nothing in this Agreement, express or
+implied, is intended to confer upon any party other than the Company or our successors, heirs, executors,
+administrators, legal representatives and assigns, any rights, remedies, obligations or liabilities under this
+Agreement. You may not assign any of your rights or transfer any obligations under this Agreement to any other person.
+
+If any action at law or in equity is necessary to enforce or interpret the terms of this Agreement, the prevailing party
+shall be entitled to reasonable attorneys’ fees, costs and disbursements in addition to any other relief to which such
+party may be entitled.
+
+## HOW TO CONTACT US
+
+If you have any questions, please contact us using the information below.
+
+- By contact form: [here]( {{ site.url | append: "/contact" }} )
