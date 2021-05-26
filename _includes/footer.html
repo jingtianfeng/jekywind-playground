@@ -23,17 +23,23 @@
         </nav>
         <div class="col-start-1 col-end-3 row-start-3 row-end-4
                     text-gray-2">
-            <p class="inline">
-                © JT Feng
+            <p>
+                © {{ site.time | date: "%Y" }} JT Feng. All rights reserved.
             </p>
-            <a class="ml-3"
-               href="{{ '/privacy' | relative_url }}">
-                Privacy
-            </a>
-            <a class="ml-3"
-               href="{{ '/terms' | relative_url }}">
-                Terms
-            </a>
+            <div class="mt-2">
+                <a class="ml-3"
+                   href="{{ '/privacy' | relative_url }}">
+                    Privacy
+                </a>
+                <a class="ml-3"
+                   href="{{ '/terms' | relative_url }}">
+                    Terms
+                </a>
+                <a class="ml-3"
+                   href="{{ '/disclaimer' | relative_url }}">
+                    Disclaimer
+                </a>
+            </div>
         </div>
     </div>
 </footer>
