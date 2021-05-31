@@ -25,27 +25,27 @@ module.exports = {
         fontSize: {
             'sm': ['0.75rem', {
                 letterSpacing: '0.025em',
-                lineHeight: '1rem',
+                lineHeight: '1.5rem',
             }],
             'base': ['1rem', {
                 letterSpacing: '0.0125em',
-                lineHeight: '1.625rem',
+                lineHeight: '2rem',
             }],
             'lg': ['1.625rem', {
                 letterSpacing: '0em',
-                lineHeight: '2rem',
+                lineHeight: '2.625rem',
             }],
             'xl': ['2.625rem', {
                 letterSpacing: '-0.0125em',
-                lineHeight: '2.75rem',
+                lineHeight: '3.625rem',
             }],
             '2xl': ['4.25rem', {
                 letterSpacing: '-0.025em',
-                lineHeight: '4.375rem',
+                lineHeight: '5.25rem',
             }],
             '3xl': ['6.875rem', {
                 letterSpacing: '-0.0375em',
-                lineHeight: '6.875rem',
+                lineHeight: '8.875rem',
             }],
         },
         colors: {
