@@ -5510,13 +5510,13 @@ body > header > .container, body > section > .container, body > footer > .contai
 .text-sm {
   font-size: 0.75rem;
   line-height: 1rem;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.025em;
 }
 
 .text-base {
   font-size: 1rem;
   line-height: 1.625rem;
-  letter-spacing: 0.025em;
+  letter-spacing: 0.0125em;
 }
 
 .text-lg {
@@ -5528,19 +5528,19 @@ body > header > .container, body > section > .container, body > footer > .contai
 .text-xl {
   font-size: 2.625rem;
   line-height: 2.75rem;
-  letter-spacing: 0em;
+  letter-spacing: -0.0125em;
 }
 
 .text-2xl {
   font-size: 4.25rem;
   line-height: 4.375rem;
-  letter-spacing: 0em;
+  letter-spacing: -0.025em;
 }
 
 .text-3xl {
   font-size: 6.875rem;
   line-height: 6.875rem;
-  letter-spacing: 0em;
+  letter-spacing: -0.0375em;
 }
 
 .leading-3 {
@@ -19418,13 +19418,13 @@ body > header > .container, body > section > .container, body > footer > .contai
   .md\:text-sm {
     font-size: 0.75rem;
     line-height: 1rem;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.025em;
   }
 
   .md\:text-base {
     font-size: 1rem;
     line-height: 1.625rem;
-    letter-spacing: 0.025em;
+    letter-spacing: 0.0125em;
   }
 
   .md\:text-lg {
@@ -19436,19 +19436,19 @@ body > header > .container, body > section > .container, body > footer > .contai
   .md\:text-xl {
     font-size: 2.625rem;
     line-height: 2.75rem;
-    letter-spacing: 0em;
+    letter-spacing: -0.0125em;
   }
 
   .md\:text-2xl {
     font-size: 4.25rem;
     line-height: 4.375rem;
-    letter-spacing: 0em;
+    letter-spacing: -0.025em;
   }
 
   .md\:text-3xl {
     font-size: 6.875rem;
     line-height: 6.875rem;
-    letter-spacing: 0em;
+    letter-spacing: -0.0375em;
   }
 
   .md\:leading-3 {
@@ -33156,13 +33156,13 @@ body > header > .container, body > section > .container, body > footer > .contai
   .lg\:text-sm {
     font-size: 0.75rem;
     line-height: 1rem;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.025em;
   }
 
   .lg\:text-base {
     font-size: 1rem;
     line-height: 1.625rem;
-    letter-spacing: 0.025em;
+    letter-spacing: 0.0125em;
   }
 
   .lg\:text-lg {
@@ -33174,19 +33174,19 @@ body > header > .container, body > section > .container, body > footer > .contai
   .lg\:text-xl {
     font-size: 2.625rem;
     line-height: 2.75rem;
-    letter-spacing: 0em;
+    letter-spacing: -0.0125em;
   }
 
   .lg\:text-2xl {
     font-size: 4.25rem;
     line-height: 4.375rem;
-    letter-spacing: 0em;
+    letter-spacing: -0.025em;
   }
 
   .lg\:text-3xl {
     font-size: 6.875rem;
     line-height: 6.875rem;
-    letter-spacing: 0em;
+    letter-spacing: -0.0375em;
   }
 
   .lg\:leading-3 {

@@ -24,11 +24,11 @@ module.exports = {
         },
         fontSize: {
             'sm': ['0.75rem', {
-                letterSpacing: '0.05em',
+                letterSpacing: '0.025em',
                 lineHeight: '1rem',
             }],
             'base': ['1rem', {
-                letterSpacing: '0.025em',
+                letterSpacing: '0.0125em',
                 lineHeight: '1.625rem',
             }],
             'lg': ['1.625rem', {
@@ -36,15 +36,15 @@ module.exports = {
                 lineHeight: '2rem',
             }],
             'xl': ['2.625rem', {
-                letterSpacing: '0em',
+                letterSpacing: '-0.0125em',
                 lineHeight: '2.75rem',
             }],
             '2xl': ['4.25rem', {
-                letterSpacing: '0em',
+                letterSpacing: '-0.025em',
                 lineHeight: '4.375rem',
             }],
             '3xl': ['6.875rem', {
-                letterSpacing: '0em',
+                letterSpacing: '-0.0375em',
                 lineHeight: '6.875rem',
             }],
         },
